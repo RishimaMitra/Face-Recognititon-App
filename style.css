@@ -1,0 +1,20 @@
+body{
+    background-color:antiquewhite;
+ }
+  .heading{
+    width :70%;
+    font-size: 30px;
+
+  }
+  .output1{
+    color :indianred;
+    font-size: 20px;
+    
+  }
+  button{
+    font-size: 25px;
+  }
+   label{
+    color:darkred
+    
+   }
